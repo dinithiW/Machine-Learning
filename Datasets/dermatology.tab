@@ -34,10 +34,10 @@ c	c	c	c	c	c	c	c	c	c	d	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	d
 3	2	1	2	0	0	0	0	1	2	0	0	0	1	0	0	2	0	3	2	2	2	1	2	0	2	0	0	0	0	0	1	0	50	psoriasis
 3	2	0	2	0	0	0	0	0	0	0	0	1	2	0	2	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	10	seboreic dermatitis
 2	3	3	3	3	0	0	0	3	3	0	0	0	0	0	0	3	2	2	3	3	3	1	3	0	0	0	0	0	0	0	1	0	34	psoriasis
-2	2	1	0	0	0	0	0	1	0	1	0	0	2	0	0	2	1	2	2	1	2	0	1	0	0	0	0	0	0	0	0	0	?	psoriasis
-2	1	0	0	2	0	0	0	0	0	0	0	0	0	0	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	?	pityriasis rosea
-2	2	1	2	0	0	0	0	0	0	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	?	seboreic dermatitis
-2	1	2	3	2	3	0	2	0	0	1	1	0	0	0	2	1	1	2	0	0	0	0	0	1	0	2	0	2	0	0	0	3	?	lichen planus
+2	2	1	0	0	0	0	0	1	0	1	0	0	2	0	0	2	1	2	2	1	2	0	1	0	0	0	0	0	0	0	0	0	35	psoriasis
+2	1	0	0	2	0	0	0	0	0	0	0	0	0	0	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	pityriasis rosea
+2	2	1	2	0	0	0	0	0	0	0	0	0	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	seboreic dermatitis
+2	1	2	3	2	3	0	2	0	0	1	1	0	0	0	2	1	1	2	0	0	0	0	0	1	0	2	0	2	0	0	0	3	15	lichen planus
 2	1	1	1	0	0	0	0	0	0	0	0	0	1	0	3	2	1	0	0	0	0	2	0	0	0	0	2	0	0	0	1	0	15	seboreic dermatitis
 2	1	2	3	2	1	0	2	0	0	0	0	0	0	0	2	2	2	1	0	0	0	0	0	2	0	1	0	3	0	0	2	3	26	lichen planus
 3	3	2	0	0	0	0	0	2	2	1	0	0	1	0	0	2	2	3	2	2	1	0	2	0	0	0	0	0	0	0	1	0	46	psoriasis
@@ -263,10 +263,10 @@ c	c	c	c	c	c	c	c	c	c	d	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	c	d
 2	2	2	0	1	0	0	0	0	0	0	0	0	0	0	2	2	1	1	0	0	0	0	0	0	0	0	2	0	0	0	2	0	22	pityriasis rosea
 1	2	2	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	1	0	0	0	0	0	0	1	0	2	0	0	0	2	0	35	pityriasis rosea
 2	2	2	1	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	0	0	0	0	0	0	0	0	1	0	0	0	2	0	36	pityriasis rosea
-2	1	0	2	0	0	0	0	0	0	0	0	0	0	2	1	3	2	2	1	3	0	0	0	0	0	0	2	0	0	0	3	0	?	cronic dermatitis
-1	1	1	3	0	0	0	0	0	0	0	0	0	0	3	2	3	1	2	2	2	0	0	0	0	0	0	3	0	0	0	2	0	?	cronic dermatitis
-1	1	0	2	0	0	0	0	1	0	0	0	0	0	3	2	3	2	1	1	3	0	0	0	0	0	0	2	0	0	0	3	0	?	cronic dermatitis
-1	1	0	3	0	0	0	0	0	0	0	0	0	0	2	1	3	1	1	0	2	0	1	0	0	0	0	2	0	0	0	3	0	?	cronic dermatitis
+2	1	0	2	0	0	0	0	0	0	0	0	0	0	2	1	3	2	2	1	3	0	0	0	0	0	0	2	0	0	0	3	0	35	cronic dermatitis
+1	1	1	3	0	0	0	0	0	0	0	0	0	0	3	2	3	1	2	2	2	0	0	0	0	0	0	3	0	0	0	2	0	36	cronic dermatitis
+1	1	0	2	0	0	0	0	1	0	0	0	0	0	3	2	3	2	1	1	3	0	0	0	0	0	0	2	0	0	0	3	0	12	cronic dermatitis
+1	1	0	3	0	0	0	0	0	0	0	0	0	0	2	1	3	1	1	0	2	0	1	0	0	0	0	2	0	0	0	3	0	10	cronic dermatitis
 2	2	1	1	0	0	2	0	2	0	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	2	0	1	2	2	0	10	pityriasis rubra pilaris
 3	2	0	1	0	0	2	0	1	0	1	0	0	0	0	1	2	1	2	0	0	0	0	0	0	0	0	3	0	1	2	2	0	12	pityriasis rubra pilaris
 2	2	1	1	0	0	2	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	2	0	1	2	2	0	8	pityriasis rubra pilaris
